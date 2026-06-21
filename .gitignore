@@ -1,0 +1,17 @@
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# runtime output
+output/
+*.params.json
+
+# os / editor
+.DS_Store
+*~
+.idea/
+.vscode/
