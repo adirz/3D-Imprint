@@ -9,7 +9,7 @@ as a proxy for its relief: the program reads the base in black-and-white,
 works out where the grooves, ridges, slopes and cliffs are, and uses that to
 decide where the decal survives, where it is cut, and how dark it gets.
 
-![preview](examples/coin.png)
+![preview](examples/result.png)
 
 ## The idea
 
